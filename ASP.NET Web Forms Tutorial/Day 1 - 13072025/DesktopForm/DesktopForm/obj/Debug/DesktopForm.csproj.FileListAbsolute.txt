@@ -1,0 +1,11 @@
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\bin\Debug\DesktopForm.exe.config
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\bin\Debug\DesktopForm.exe
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\bin\Debug\DesktopForm.pdb
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\obj\Debug\DesktopForm.csproj.AssemblyReference.cache
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\obj\Debug\DesktopForm.Form1.resources
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\obj\Debug\DesktopForm.Properties.Resources.resources
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\obj\Debug\DesktopForm.csproj.GenerateResource.cache
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\obj\Debug\DesktopForm.csproj.CoreCompileInputs.cache
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\obj\Debug\DesktopForm.exe
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\obj\Debug\DesktopForm.pdb
+C:\Users\rsmairat\Desktop\ASP.NET Web Forms Tutorial\Day 1 - 13072025\DesktopForm\DesktopForm\obj\Debug\DesktopForm.exe.config
